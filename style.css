@@ -1,0 +1,12 @@
+#div{
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between ;
+   background:rgb(11, 69, 80);
+}
+.card{
+    border-radius:20px;
+    border:8px solid rgb(11, 69, 80);
+   font-family: cursive;
+}
